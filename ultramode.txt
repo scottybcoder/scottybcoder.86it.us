@@ -1,0 +1,9 @@
+General purpose self-explanatory file with headlines
+%%
+Welcome to my Online Humble Abode...
+/modules.php?name=Blogs&file=article&sid=50
+Tuesday, November 22
+ScottyBcoder
+W. Rabbit
+0
+
