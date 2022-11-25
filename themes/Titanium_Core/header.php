@@ -152,7 +152,7 @@ $marquee_two = '
 # This is where we set the poster background and full screen video START
 echo '<div class="fullscreen-bg">'."\n";
 echo '<video muted loop autoplay poster="themes/'.$theme_name.'/images/BACKGROUNDS/1e1e1e.png" class="fullscreen-bg__video">'."\n";
-echo '<source src="themes/'.$theme_name.'/video/futuristic_gold_abstract_3D_tunnel_1.49gb.mp4" type="video/mp4">'."\n"; ### 1 to 10  This is a 10 ### BEST SO FAR
+echo '<source src="themes/'.$theme_name.'/video/aqua_fresh.mp4" type="video/mp4">'."\n"; ### 1 to 10  This is a 10 ### BEST SO FAR
 echo '</video>'."\n";
 echo '</div>'."\n";
 # This is where we set the poster background and full screen video END
